@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul,
+li,
+a,
+button,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+i {
+    font-size: 12px;
+    list-style: none;
+    outline-style: none;
+    border: none;
+    text-decoration: none;
+    font-style: normal;
+}
+a {
+    color: #797d82;
+}
+body {
+    /* background-color: #f6f6f6; */
+    color: #494949;
+    font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+}
